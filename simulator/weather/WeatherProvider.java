@@ -1,5 +1,7 @@
 package simulator.weather;
 
+import simulator.vehicles.Coordinates;
+
 public class WeatherProvider {
     private static WeatherProvider weatherProvider = new WeatherProvider();
     private static String weather[] = {"RAIN", "SNOW", "FOG", "SUN"};
@@ -13,6 +15,6 @@ public class WeatherProvider {
     }
 
     public String getCurrentWeather(Coordinates coordinates){
-        return weather[(coordinates.getHeight() + coordinates.getLattitude() + coordinates.getLongitude()) % 4]; //get sum of coords, apply modlus
+        return weather[(coordinates.getHeight() + coordinates.getLatitude() + coordinates.getLongitude()) % 4]; //get sum of coords, apply modlus
     }
 }

@@ -1,7 +1,8 @@
 package simulator;
 
-import simulator.weather.Coordinates;
+import simulator.vehicles.Coordinates;
 import simulator.weather.WeatherProvider;
+import java.util.Random;
 
 import java.lang.*;
 
@@ -11,7 +12,8 @@ public class WeatherTower extends Tower {
         return WeatherProvider.getProvider().getCurrentWeather(coordinates);
     }
 
-    private  void changeWeather(){
-
+    void changeWeather(){
+        Random random = new Random();
+        random.nextInt(4);
     }
 }
