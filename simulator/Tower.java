@@ -17,6 +17,9 @@ public class Tower {
     }
 
     protected void conditionsChanged(){
+        for(int i =0; i <flyables.size();i++ ){
+            flyables.get(i).updateConditions();
+        }
 
     }
 }

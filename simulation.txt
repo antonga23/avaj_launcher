@@ -1,0 +1,159 @@
+Baloon#B1(0): registered to weather tower.
+Baloon#B2(0): registered to weather tower.
+JetPlane#J1(0): registered to weather tower.
+Helicopter#H1(0): registered to weather tower.
+Helicopter#H2(0): registered to weather tower.
+Helicopter#H3(0): registered to weather tower.
+Baloon#B3(0): registered to weather tower.
+JetPlane#J2(0): registered to weather tower.
+Helicopter#H4(0): registered to weather tower.
+Baloon#B1(0): I'm freezing. let's get low now! ma bru.
+Baloon#B2(0): Open the champagne.Soar! Soar! Soar! ma bru
+JetPlane#J1(0): Jasis! ma bru. Dis fokken warm, ma bru
+Helicopter#H1(0): Ma bru dis poes warm.
+Helicopter#H2(0): Ma bru dis poes warm.
+Helicopter#H3(0): It's poes koud ma bru
+Baloon#B3(0): Gotta get low. Fog is making it hard to see ma bru
+JetPlane#J2(0): Radioing in. We need to get above the clouds, ma bru
+Helicopter#H4(0): We need to increase our altitude ma bru.
+Baloon#B1(0): Gotta get low. Fog is making it hard to see ma bru
+Baloon#B2(0): I'm freezing. let's get low now! ma bru.
+JetPlane#J1(0): Jasis! ma bru. Dis fokken warm, ma bru
+Helicopter#H1(0): Ma bru dis poes warm.
+Helicopter#H2(0): Ma bru dis poes warm.
+Helicopter#H3(0): It's poes koud ma bru
+Baloon#B3(0): Open the champagne.Soar! Soar! Soar! ma bru
+JetPlane#J2(0): Jasis! ma bru. Dis fokken warm, ma bru
+Helicopter#H4(0): It's poes koud ma bru
+Baloon#B1(0): Open the champagne.Soar! Soar! Soar! ma bru
+Baloon#B2(0): Gotta get low. Fog is making it hard to see ma bru
+JetPlane#J1(0): Jasis! ma bru. Dis fokken warm, ma bru
+Helicopter#H1(0): Ma bru dis poes warm.
+Helicopter#H2(0): Ma bru dis poes warm.
+Helicopter#H3(0): It's poes koud ma bru
+Baloon#B3(0): I'm freezing. let's get low now! ma bru.
+JetPlane#J2(0): Jasis! ma bru. It's poes koud, ma bru
+Helicopter#H4(0): It's poes koud ma bru
+Baloon#B1(0): I'm freezing. let's get low now! ma bru.
+Baloon#B1(0): is landing ma bru.
+Tower says: Baloon#B1(0) unregistered from weather tower ma bru.
+JetPlane#J1(0): Jasis! ma bru. Dis fokken warm, ma bru
+Helicopter#H1(0): Ma bru dis poes warm.
+Helicopter#H2(0): Ma bru dis poes warm.
+Helicopter#H3(0): It's poes koud ma bru
+Baloon#B3(0): Gotta get low. Fog is making it hard to see ma bru
+JetPlane#J2(0): Radioing in. We need to get above the clouds, ma bru
+Helicopter#H4(0): It's poes koud ma bru
+Baloon#B2(0): Open the champagne.Soar! Soar! Soar! ma bru
+JetPlane#J1(0): Jasis! ma bru. Dis fokken warm, ma bru
+Helicopter#H1(0): Ma bru dis poes warm.
+Helicopter#H2(0): Ma bru dis poes warm.
+Helicopter#H3(0): It's poes koud ma bru
+Baloon#B3(0): Open the champagne.Soar! Soar! Soar! ma bru
+JetPlane#J2(0): Jasis! ma bru. Dis fokken warm, ma bru
+Helicopter#H4(0): It's poes koud ma bru
+Baloon#B2(0): I'm freezing. let's get low now! ma bru.
+JetPlane#J1(0): Jasis! ma bru. Dis fokken warm, ma bru
+Helicopter#H1(0): Ma bru dis poes warm.
+Helicopter#H2(0): Ma bru dis poes warm.
+Helicopter#H3(0): It's poes koud ma bru
+Baloon#B3(0): I'm freezing. let's get low now! ma bru.
+JetPlane#J2(0): Jasis! ma bru. Dis fokken warm, ma bru
+Helicopter#H4(0): It's poes koud ma bru
+Helicopter#H4(0): is landing am bru.
+Tower says: Helicopter#H4(0) unregistered from weather tower ma bru.
+Baloon#B2(0): Gotta get low. Fog is making it hard to see ma bru
+JetPlane#J1(0): Jasis! ma bru. Dis fokken warm, ma bru
+Helicopter#H1(0): Ma bru dis poes warm.
+Helicopter#H2(0): Ma bru dis poes warm.
+Helicopter#H3(0): It's poes koud ma bru
+Baloon#B3(0): Gotta get low. Fog is making it hard to see ma bru
+JetPlane#J2(0): Jasis! ma bru. Dis fokken warm, ma bru
+Baloon#B2(0): Open the champagne.Soar! Soar! Soar! ma bru
+JetPlane#J1(0): Jasis! ma bru. Dis fokken warm, ma bru
+Helicopter#H1(0): Ma bru dis poes warm.
+Helicopter#H2(0): Ma bru dis poes warm.
+Helicopter#H3(0): It's poes koud ma bru
+Baloon#B3(0): Open the champagne.Soar! Soar! Soar! ma bru
+JetPlane#J2(0): Jasis! ma bru. Dis fokken warm, ma bru
+Baloon#B2(0): I'm freezing. let's get low now! ma bru.
+JetPlane#J1(0): Jasis! ma bru. Dis fokken warm, ma bru
+Helicopter#H1(0): Ma bru dis poes warm.
+Helicopter#H2(0): Ma bru dis poes warm.
+Helicopter#H3(0): It's poes koud ma bru
+Helicopter#H3(0): is landing am bru.
+Tower says: Helicopter#H3(0) unregistered from weather tower ma bru.
+JetPlane#J2(0): Radioing in. We need to get above the clouds, ma bru
+Baloon#B2(0): Gotta get low. Fog is making it hard to see ma bru
+JetPlane#J1(0): Jasis! ma bru. Dis fokken warm, ma bru
+Helicopter#H1(0): Ma bru dis poes warm.
+Helicopter#H2(0): Ma bru dis poes warm.
+Baloon#B3(0): I'm freezing. let's get low now! ma bru.
+Baloon#B3(0): is landing ma bru.
+Tower says: Baloon#B3(0) unregistered from weather tower ma bru.
+Baloon#B2(0): Open the champagne.Soar! Soar! Soar! ma bru
+JetPlane#J1(0): Jasis! ma bru. Dis fokken warm, ma bru
+Helicopter#H1(0): Ma bru dis poes warm.
+Helicopter#H2(0): Ma bru dis poes warm.
+JetPlane#J2(0): Jasis! ma bru. Dis fokken warm, ma bru
+Baloon#B2(0): I'm freezing. let's get low now! ma bru.
+JetPlane#J1(0): Jasis! ma bru. Dis fokken warm, ma bru
+Helicopter#H1(0): Ma bru dis poes warm.
+Helicopter#H2(0): Ma bru dis poes warm.
+JetPlane#J2(0): Jasis! ma bru. It's poes koud, ma bru
+Baloon#B2(0): Gotta get low. Fog is making it hard to see ma bru
+JetPlane#J1(0): Jasis! ma bru. Dis fokken warm, ma bru
+Helicopter#H1(0): Ma bru dis poes warm.
+Helicopter#H2(0): Ma bru dis poes warm.
+JetPlane#J2(0): Radioing in. We need to get above the clouds, ma bru
+Baloon#B2(0): Open the champagne.Soar! Soar! Soar! ma bru
+JetPlane#J1(0): Jasis! ma bru. Dis fokken warm, ma bru
+Helicopter#H1(0): Ma bru dis poes warm.
+Helicopter#H2(0): Ma bru dis poes warm.
+JetPlane#J2(0): Jasis! ma bru. Dis fokken warm, ma bru
+Baloon#B2(0): I'm freezing. let's get low now! ma bru.
+Baloon#B2(0): is landing ma bru.
+Tower says: Baloon#B2(0) unregistered from weather tower ma bru.
+Helicopter#H1(0): Ma bru dis poes warm.
+Helicopter#H2(0): Ma bru dis poes warm.
+JetPlane#J2(0): Jasis! ma bru. Dis fokken warm, ma bru
+JetPlane#J1(0): Jasis! ma bru. Dis fokken warm, ma bru
+Helicopter#H1(0): Ma bru dis poes warm.
+Helicopter#H2(0): Ma bru dis poes warm.
+JetPlane#J2(0): Jasis! ma bru. Dis fokken warm, ma bru
+JetPlane#J1(0): Jasis! ma bru. Dis fokken warm, ma bru
+Helicopter#H1(0): Ma bru dis poes warm.
+Helicopter#H2(0): Ma bru dis poes warm.
+JetPlane#J2(0): Jasis! ma bru. Dis fokken warm, ma bru
+JetPlane#J1(0): Jasis! ma bru. Dis fokken warm, ma bru
+Helicopter#H1(0): Ma bru dis poes warm.
+Helicopter#H2(0): Ma bru dis poes warm.
+JetPlane#J2(0): Radioing in. We need to get above the clouds, ma bru
+JetPlane#J1(0): Jasis! ma bru. Dis fokken warm, ma bru
+Helicopter#H1(0): Ma bru dis poes warm.
+Helicopter#H2(0): Ma bru dis poes warm.
+JetPlane#J2(0): Jasis! ma bru. Dis fokken warm, ma bru
+JetPlane#J1(0): Jasis! ma bru. Dis fokken warm, ma bru
+Helicopter#H1(0): Ma bru dis poes warm.
+Helicopter#H2(0): Ma bru dis poes warm.
+JetPlane#J2(0): Jasis! ma bru. It's poes koud, ma bru
+JetPlane#J1(0): Jasis! ma bru. Dis fokken warm, ma bru
+Helicopter#H1(0): Ma bru dis poes warm.
+Helicopter#H2(0): Ma bru dis poes warm.
+JetPlane#J2(0): Radioing in. We need to get above the clouds, ma bru
+JetPlane#J1(0): Jasis! ma bru. Dis fokken warm, ma bru
+Helicopter#H1(0): Ma bru dis poes warm.
+Helicopter#H2(0): Ma bru dis poes warm.
+JetPlane#J2(0): Jasis! ma bru. Dis fokken warm, ma bru
+JetPlane#J1(0): Jasis! ma bru. Dis fokken warm, ma bru
+Helicopter#H1(0): Ma bru dis poes warm.
+Helicopter#H2(0): Ma bru dis poes warm.
+JetPlane#J2(0): Jasis! ma bru. Dis fokken warm, ma bru
+JetPlane#J1(0): Jasis! ma bru. Dis fokken warm, ma bru
+Helicopter#H1(0): Ma bru dis poes warm.
+Helicopter#H2(0): Ma bru dis poes warm.
+JetPlane#J2(0): Jasis! ma bru. Dis fokken warm, ma bru
+JetPlane#J1(0): Jasis! ma bru. Dis fokken warm, ma bru
+Helicopter#H1(0): Ma bru dis poes warm.
+Helicopter#H2(0): Ma bru dis poes warm.
+JetPlane#J2(0): Jasis! ma bru. Dis fokken warm, ma bru

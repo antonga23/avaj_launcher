@@ -13,7 +13,6 @@ public class WeatherTower extends Tower {
     }
 
     void changeWeather(){
-        Random random = new Random();
-        random.nextInt(4);
+        conditionsChanged();
     }
 }

@@ -4,20 +4,19 @@ import simulator.vehicles.Aircraft;
 import simulator.vehicles.AircraftFactory;
 
 import javax.swing.*;
-import java.io.BufferedReader;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.io.IOException;
+import java.io.*;
 import java.util.*;
 
 public class Simulator {
     private static WeatherTower weatherTower;
     private static List<Flyable> flyables = new ArrayList<>();
+    public static PrintWriter printWriter;
 
     public static void main(String[] args) throws InterruptedException {
         try{
             BufferedReader reader = new BufferedReader(new FileReader(args[0]));
             String line = reader.readLine();
+            printWriter = new PrintWriter("simulation.txt");
             if (line != null){
                 weatherTower = new WeatherTower();
                 int simulations = Integer.parseInt(line.split(" ")[0]);
@@ -50,7 +49,8 @@ public class Simulator {
         catch (ArrayIndexOutOfBoundsException e){
             System.out.println("Give a simulation file");
         } finally {
-            //Log
+            if (printWriter != null)
+                printWriter.close();
         }
     }
 }
